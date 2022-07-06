@@ -31,7 +31,7 @@
     "@vue/cli-service": "~4.5.12",
     "@vue/eslint-config-airbnb": "^5.0.2",
     "@vue/eslint-config-typescript": "^7.0.0",
-    "electron": "15.3.2",
+    "electron": "15.5.7",
     "electron-devtools-installer": "^3.1.0",
     "eslint": "^6.7.2",
     "eslint-config-prettier": "^6.11.0",
