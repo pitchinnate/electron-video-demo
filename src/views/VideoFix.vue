@@ -5,10 +5,10 @@
     </div>
     <div class="intelFix"></div>
     <div class="slideTop">
-      <video src="video://./static/video1.mp4" playsinline loop muted ref="video" preload="auto" />
+      <video src="stream://./static/video1.mp4" playsinline loop muted ref="video" preload="auto" />
     </div>
     <div class="slideBottom" :class="{slideTopper: this.slideTopper}">
-      <video src="video://./static/video2.mp4" playsinline loop muted ref="video2" preload="auto" />
+      <video src="stream://./static/video2.mp4" playsinline loop muted ref="video2" preload="auto" />
     </div>
   </div>
 </template>
